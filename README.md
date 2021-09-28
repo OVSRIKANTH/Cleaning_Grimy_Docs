@@ -10,12 +10,11 @@ thinking about all models.
 
 <br>
 
-### Dataset - [link](https://www.kaggle.com/c/denoising-dirty-documents/overview)
+### Dataset - [Link](https://www.kaggle.com/c/denoising-dirty-documents/overview)
 
 <br>
 
 ## Models 
-<br>
 
 ### Traditional Image processing Techniques
 
@@ -27,12 +26,12 @@ thinking about all models.
 1. Convolutional Autoencoders
     
     Architecture :
-    ![Autoencoder Architecture](Images\autoencoder.png)
+    ![Autoencoder Architecture](https://github.com/OVSRIKANTH/Cleaning_Grimy_Docs/blob/main/Images/autoencoder.png)
 
 2. Stacked CNN 
     
     Architecture :
-    ![Autoencoder Architecture](Images\stackedcnn.png)
+    ![Stacked CNN Architecture](https://github.com/OVSRIKANTH/Cleaning_Grimy_Docs/blob/main/Images/stackedcnn.png)
 
 
 All details about models and their hyperparameters are mentioned in [report](Report.pdf).
